@@ -1,4 +1,7 @@
 def suma(a, b):
     return a + b
 
-print suma(7, 5)
+def iloczyn(a, b):
+    return a + b
+
+print iloczyn(7, 5)
